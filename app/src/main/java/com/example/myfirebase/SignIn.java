@@ -36,8 +36,7 @@ public class SignIn extends AppCompatActivity {
         tvGoogle.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-//                Intent intent = new Intent(SignIn.this,Google.class);
-//                startActivity(intent);
+
             }
         });
         tvRegister.setOnClickListener(new View.OnClickListener() {
